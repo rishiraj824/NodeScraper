@@ -1,0 +1,25 @@
+{
+  "name": "nodescraper",
+  "version": "1.0.0",
+  "description": "A scraper to get all te packages from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishiraj824/NodeScraper.git"
+  },
+  "author": "Rishi Raj",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "pug": "^2.0.0-beta6",
+    "request": "latest"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishiraj824/NodeScraper/issues"
+  },
+  "homepage": "https://github.com/rishiraj824/NodeScraper#readme"
+}
